@@ -5,12 +5,18 @@ This repository contains all legal notices of using [Atbox.io](https://atbox.io)
 # Read them all! #
 1. [Terms of Service](https://github.com/Atbox/legal/tree/master/terms-of-service) - 
 The rules you must consider when you use Atbox
+2. [Privacy Policy](https://github.com/Atbox/legal/tree/master/privacy-policy) - 
+How we protect the privacy of your information
+3. [Payments Terms](https://github.com/Atbox/legal/tree/master/payment-terms) - 
+The rules you must consider when you purchase
+4. [License Notices](https://github.com/Atbox/legal/tree/master/license-notices) - 
+The Copyright and licenses of Atbox and Atbox contents
 
 # How to use? #
 There are two ways:
 
-* Get the latest released verson [Here →](https://github.com/Atbox/legal/releases)
 * Read the content of this repository by simply navigating to folders and choose a language file.
+* Download the latest release [Here →](https://github.com/Atbox/legal/releases)
 
 # How to see the changes? #
 We will **ALWAYS** notify Atbox users when we release an legal update. We notify you by email and a notice on website.
