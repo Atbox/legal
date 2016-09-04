@@ -19,9 +19,9 @@ There are two ways:
 * Download the latest release [Here →](https://github.com/Atbox/legal/releases)
 
 # How to see the changes? #
-We will **ALWAYS** notify Atbox users when we release an legal update. We notify you by email and a notice on website.
+We will **ALWAYS** notify Atbox users when we release legal updates. We'll notify you via email and a notice on website.
 
-*But* There are even more ways to follow up:
+There are *even more ways* to follow up:
 * You can see every little changes of files [Here →](https://github.com/Atbox/legal/commits/master)
 * You can [watch](https://github.com/Atbox/legal/subscription) this repository to get noticed when anything changes.
 * You can follow [this RSS feed](https://github.com/Atbox/legal/releases.atom) to see the latest updates.
@@ -34,7 +34,7 @@ Simply [open an issue](https://github.com/Atbox/legal/issues/new) and ask for a 
 
 # Contributing #
 
-You can help us by translating the files into other languages!
+You can help us by translating these files into other languages!
 
 Fork, clone, add new files, push, open a pull request
 
