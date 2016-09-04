@@ -59,23 +59,23 @@ We don't expose our user content to anyone. Each user will only access the data 
 ### 8. Do Not Track signals ###
 We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
-### Third-party behavioral tracking ###
+### 9. Third-party behavioral tracking ###
 We allow third-party behavioral tracking in order to analyse the overall behavior of users. This information are not private and does not include personal information about users on their identity
 
-### 9. COPPA (Children Online Privacy Protection Act) ###
+### 10. COPPA (Children Online Privacy Protection Act) ###
 
 When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
 
 We do not specifically market to children under the age of 13 years old.
 
-### 10. Fair Information Practices ###
+### 11. Fair Information Practices ###
 
 The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
 In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
 We will notify you via email and social networks within 7 business days.
 
-### 11. CAN SPAM Act ###
+### 12. CAN SPAM Act ###
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
