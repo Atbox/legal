@@ -1,15 +1,30 @@
 Atbox - License Notices
 ======================
 
-### 1. ATBOX BRAND ###
+### 1. COPYRIGHT ###
 
-The "**Atbox**" brand and logo belongs to the [Atbox Team](https://atbox.io/pages/team). Abuseing and misusing the brand may be illegal. Copying or abusing the Atbox's platform and/or user interface is not acceptable and will cause legal proceedings.
+All rights reserved by Atbox.io and it's creators © 2015
 
-### 2. ATBOX CONTENT ###
+Atbox License agreement
+
+* Permissions (You can)
+  * Private use
+  * Commercial use
+* Limitations (You can not)
+  * Distribution
+  * Modification
+
+Copying or abusing the Atbox's platform and/or user interface is not acceptable and will cause legal proceedings.
+
+### 2. ATBOX BRAND ###
+
+The "**Atbox**" brand and logo belongs to the [Atbox Team](https://atbox.io/pages/team). Abuseing and misusing the brand identity may be illegal.
+
+### 3. ATBOX CONTENT ###
 
 Content provided by users belongs to them, you must ask for permission before using or copying them.
 
-### 3. MATERIAL ###
+### 4. MATERIAL ###
 
 Atbox uses the following material to build and deliver the service. Each item may have it's own license or copyright. You can see the owner info on the provided link.
 
