@@ -5,7 +5,7 @@ Atbox - License Notices
 
 All rights reserved by Atbox.io and it's creators © 2015
 
-Atbox License agreement
+License agreement of Atbox platform
 
 * Permissions (You can)
   * Private use
