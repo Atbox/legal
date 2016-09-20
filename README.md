@@ -32,6 +32,14 @@ Yes! We are open to change the rules!
 
 Simply [open an issue](https://github.com/Atbox/legal/issues/new) and ask for a change in Atbox terms.
 
+# Drafts and releases #
+This repository has the following branches:
+* [**Master branch**](https://github.com/Atbox/legal/tree/master) where you can see the latest version of TOS and legal notices.
+You can always see the *Master Branch* on the homepage of this repository, or on [Atbox](https://atbox.io/pages/tos)) 
+* [**Draft branch**](https://github.com/Atbox/legal/tree/draft) where you can find drafts of the things may change on the future version. *Draft brach* **IS NOT** relible at all and it may always change. **IT'S NOT** for you to consider as terms of services or legal notes. It's just here in case you are curious about future changes.
+
+
+
 # Contributing #
 
 You can help us by translating these files into other languages!
