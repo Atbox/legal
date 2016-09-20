@@ -3,42 +3,55 @@ Atbox - Privacy Policy
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-### 1. What personal information do we collect ###
+### What personal information do we collect? ###
 
 * Name and Email address
   * When registering for Atbox, as appropriate, you may be asked to enter your name and email address to identify you as a user of the service. Your name will be visible to the public but your email address will be held privately.
-  * When you login using a third-party app such as facebook, google or twitter, we receive some info from that app. You can see exactly what info we are receiving when you are allowing the Atbox app to use that info.
+  * When you login using a third-party app such as Facebook, Google or Twitter, we receive some info from that app. You can see exactly what info we are receiving when you are allowing the Atbox app to use that info.
 
 * Resume information
-  * In order to build your resume, you may be asked to enter your resume data such as work experienses and contact info. You will and can choose if this data is private or public. we will ask you this when you are maikng your resume. You can also change this option on the [settings page](https://atbox.io/settings) any time.
+  * In order to build your resume, you may be asked to enter your resume data such as work experiences and contact info. You will and can choose if this data is private or public. we will ask you this when you are making your resume. You can also change this option on the [settings page](https://atbox.io/settings) any time.
 
-### 2. When do we collect personal information? ###
+### When do we collect personal information? ###
 
 We collect information from you when you:
 * Register for Atbox.
-* Login with third-party apps such as facebook, google or twitter
+* Login with third-party apps such as Facebook, Google or Twitter
 * Provide us with feedback on our products or services.
 * Contact the support
 
-### 3. How do we use your private information? ###
+### How do we use your private information? ###
 
   * To build a profile/resume for you
   * To contact you
 
-### 4. Who can see your private information? ###
+### Who can see your private information? ###
 
 * Your account's main email address is private and only a very small group of website trusted administrators can see your email to help you and contact you.
 * Your Name and profile picture are public to any one who see your profile
 * Your resume information can be private or public. You choose it when we ask you to set your privacy. You can also change this option any time from the [settings page](https://atbox.io/settings)
 
-### 5. How do we protect your information? ###
+### How do we protect your information? ###
 
   * We only provide services and information. We never ask for credit card numbers.
   * We use regular Malware Scanning.
   * All transactions are processed through a gateway provider and are not stored or processed on our servers.
   * Your personal information is contained behind secured networks and is only accessible by administrators who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-### 6. Cookies ###
+### OAuth ###
+
+Atbox uses [OAuth](https://en.wikipedia.org/wiki/OAuth) in order to connect to your accounts on other applications such as [Google](https://www.google.com/),[Facebook](https://www.facebook.com), [Twitter](https://twitter.com), etc. 
+
+When you register on Atbox via OAuth, when you import your basic info or when you connect these applications to your profile, we will receive some of your basic information such as name, email, user ID and profile picture.
+
+We will authenticate you with these accounts so you can always Login with them. Please consider if connect your Atbox account to some one else's Google, Facebook or Twitter accounts, they will have access your Atbox account as well.
+
+On Atbox you can also [import your contact](https://atbox.io/explore/people) to help us find your friends and co-workers on Atbox. When you import your contacts from Google, Twitter or other applications, we will receive their Names, Email Addresses, Usernames and profile pictures in order to find them on Atbox or help you invite them to Atbox. We will never use these information and we will never send messages to your contacts without your permission. We will find your friends on Atbox and we will connect them to you, also if they are not on Atbox and you wish to invite them, You can find the invite option on [explore page](https://atbox.io/explore/people)
+
+**We will never use your OAuth connection without your permission in order to automatically share content, follow people or edit your information.**
+
+
+### Cookies ###
 
 Just like every other website, we use cookies. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
@@ -51,36 +64,36 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 If you disable cookies in your browser, some features will be disabled. Some of the features that make your site experience more efficient and may not function properly. For example we can't remember you when you visit the site again.
 
 
-### 7. Third-party disclosure ###
+### Third-party disclosure ###
 
 We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
 We don't expose our user content to anyone. Each user will only access the data that the owner of data provide access to them, otherwise there is no way for other users to access the information. Users can set their profile to *private* mode and only their followers would access their content. No third-parties (including business partners, corporations, marketers) would access to particular content.
 
-### 8. Do Not Track signals ###
+### Do Not Track signals ###
 We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
-### 9. Third-party behavioral tracking ###
-We allow third-party behavioral tracking in order to analyse the overall behavior of users. This information are not private and does not include personal information about users on their identity
+### Third-party behavioral tracking ###
+We allow third-party behavioral tracking in order to analyze the overall behavior of users. This information are not private and does not include personal information about users on their identity
 
-### 10. COPPA (Children Online Privacy Protection Act) ###
+### COPPA (Children Online Privacy Protection Act) ###
 
 When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
 
 We do not specifically market to children under the age of 13 years old.
 
-### 11. Fair Information Practices ###
+### Fair Information Practices ###
 
 The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
 In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
 We will notify you via email and social networks within 7 business days.
 
-### 12. CAN SPAM Act ###
+### CAN SPAM Act ###
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
 To be in accordance with CANSPAM, we agree to the following:
-  * We only send emails to our users who have registered on Atbox and agreed our terms of servise.
+  * We only send emails to our users who have registered on Atbox and agreed our terms of services.
   * We DON'T sell, trade or expose the email addresses of our users.
   * Not use false or misleading subjects or email addresses.
   * Honor opt-out/unsubscribe requests quickly.
