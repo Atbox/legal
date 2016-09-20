@@ -63,6 +63,7 @@ Atbox uses the following material to build and deliver the service. Each item ma
   * **Teodor the Cat** By [Denis Sazhin](http://dribbble.com/iconka)
   * **Mobile computer devices** By [Vector Open Stock](http://vectoropenstock.com)
   * **Flat hands collection** By [Freepik](http://freepik.com)
+  * **Business Team Avatar Collection** By [Freepik](http://freepik.com)
   * **Textures** By [Subtle Patterns](http://subtlepatterns.com)
 * IMAGES
   * By [Sajjad Rad](https://atbox.io/sajjad)
