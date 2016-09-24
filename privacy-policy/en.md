@@ -126,10 +126,12 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 and we will promptly remove you from ALL correspondence.
 
 
-### Contacting Us ###
+### Google Analytics ###
 
-If there are any questions regarding this privacy policy, you may contact us using the information below.
+Atbox uses Google Analytics in order to analyze and track activities. Please read [Google Analytics' Terms of services](https://www.google.com/analytics/terms/us.html)
 
-support@atbox.io
+### Google AdSense ###
+
+Atbox uses Google AdSense in order to show online ads. Please read [Google AdSense Terms of services](https://www.google.com/adsense/terms)
 
 
