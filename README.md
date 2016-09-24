@@ -19,7 +19,7 @@ There are two ways:
 * Download the latest release [Here →](https://github.com/Atbox/legal/releases)
 
 # How to see the changes? #
-We will **ALWAYS** notify Atbox users when we release legal updates. We'll notify you via email and a notice on website.
+We will **ALWAYS** notify Atbox users when we release legal updates. We'll notify you via email or a visible notice on the website.
 
 There are *even more ways* to follow up:
 * You can see every little changes of files [Here →](https://github.com/Atbox/legal/commits/master)
