@@ -42,6 +42,8 @@ We collect personal information from you when you:
 
 ### When do we send you emails? ###
 
+**We hate spam** and we are specifically careful to not abuse your inbox ever and we are bound to send you ONLY helpful personalized emails in order to bring you the best service.
+
 We will send you emails when:
 * You (or your company) have new notifications
 * There are helpful suggestions for you or your company
