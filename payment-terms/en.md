@@ -1,6 +1,8 @@
 Atbox - Payment Terms
 ======================
 
+>You can either read this on [Atbox](https://atbox.io/pages/payment-terms) or [Github](https://github.com/Atbox/legal/tree/master/payment-terms)
+
 Atbox is generally a free service but it also provides premium services to users. Premium services may be granted as gifts or paid by the user and in both cases, user will receive the premium service as promised.
 
 ### 1. The Product ###
