@@ -16,18 +16,18 @@ This privacy policy has been compiled to better serve those who are concerned wi
 
 ### When do we collect personal information? ###
 
-We collect information from you when you:
+We collect personal information from you when you:
 * Register for Atbox.
 * Login with third-party apps such as Facebook, Google or Twitter
 * Provide us with feedback on our products or services.
 * Contact the support
 
-### How do we use your private information? ###
+### How do we use your personal information? ###
 
   * To build a profile/resume for you
   * To contact you
 
-### Who can see your private information? ###
+### Who can see your personal information? ###
 
 * Your account's main email address is private and only a very small group of website trusted administrators can see your email to help you and contact you.
 * Your Name and profile picture are public to any one who see your profile
@@ -39,6 +39,25 @@ We collect information from you when you:
   * We use regular Malware Scanning.
   * All transactions are processed through a gateway provider and are not stored or processed on our servers.
   * Your personal information is contained behind secured networks and is only accessible by administrators who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive information you supply is encrypted via Secure Socket Layer (SSL) technology.
+
+### When do we send you emails? ###
+
+We will send you emails when:
+* You (or your company) have new notifications
+* There are helpful suggestions for you or your company
+* There are security issues with your account or there are legal updates
+* You register for atbox recently or your email addess needs activation or you change your password
+* When there is a password recovery request for your account
+* You don't have a password and you ask for a verification code
+
+We also send you:
+* Weekly Newsletters, polls, guides or helpful notices
+* Pormotions about Atbox or Atbox products
+* Birthday congratulations or other occasional emails
+
+>Note1. Some of these may not be activated yet.
+
+>Note2. You can always change your [email settings](https://atbox.io/settings/email) if you don't want to receive these emails, however some of these emails are required and we can't let you turn them off (ex: password recovery emails) 
 
 ### OAuth ###
 
