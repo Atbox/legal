@@ -1,6 +1,8 @@
 Atbox - Terms of service
 ======================
 
+>You can either read this on [Atbox](https://atbox.io/pages/tos) or [Github](https://github.com/Atbox/legal/tree/master/terms-of-service)
+
 Atbox is a social network and using this service will be considered your agreement to the terms of service, so it's wiser to read the following terms at least once.
 
 ### You're in charge of your content ###
