@@ -71,6 +71,8 @@ We will authenticate you with these accounts so you can always Login with them. 
 
 On Atbox you can also [import your contact](https://atbox.io/explore/people) to help us find your friends and co-workers on Atbox. When you import your contacts from Google, Twitter or other applications, we will receive their Names, Email Addresses, Usernames and profile pictures in order to find them on Atbox or help you invite them to Atbox. We will never use these information and we will never send messages to your contacts without your permission. We will find your friends on Atbox and we will connect them to you, also if they are not on Atbox and you wish to invite them, You can find the invite option on [explore page](https://atbox.io/explore/people)
 
+**We will never get your personal information without your permission.**
+
 **We will never use your OAuth connection without your permission in order to automatically share content, follow people or edit your information.**
 
 
