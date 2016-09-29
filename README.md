@@ -6,16 +6,17 @@ This repository contains all legal notices of using [Atbox.io](https://atbox.io)
 1. [Terms of Service](terms-of-service) - 
 The rules you must consider when you use Atbox
 2. [Privacy Policy](privacy-policy) - 
-How we protect the privacy of your information
+How we protect your privacy and your personal information
 3. [Payments Terms](payment-terms) - 
 The rules you must consider when you purchase
 4. [License Notices](license-notices) - 
-The Copyright and licenses of Atbox and Atbox contents
+The Copyright and licenses of Atbox and its content
 
 # How to use? #
-There are two ways:
+There are three ways:
 
 * Read the content of this repository by simply navigating to folders and choose a language file.
+* Read them on [Atbox](https://atbox.io/pages/tos)
 * Download the latest release [Here →](https://github.com/Atbox/legal/releases)
 
 # How to see the changes? #
@@ -28,7 +29,7 @@ There are *even more ways* to follow up:
 
 # How to ask for a change? #
 
-Yes! We are open to change the rules!
+Yes! We are open to change the terms!
 
 Simply [open an issue](https://github.com/Atbox/legal/issues/new) and ask for a change in Atbox terms.
 
@@ -42,11 +43,10 @@ You can always see the *Master Branch* on the homepage of this repository, or on
 
 # Contributing #
 
-You can help us by translating these files into other languages!
+You can help us by translating these files into other languages.
 
 Fork, clone, add new files, push, open a pull request
 
-# License #
+# Copyright #
 Copyright 2016 Atbox.io
 
-Licensed under the MIT License
