@@ -16,7 +16,7 @@ The Copyright and licenses of Atbox and its content
 There are three ways:
 
 * Read the content of this repository by simply navigating to folders and choose a language file.
-* Read them on [Atbox](https://atbox.io/pages/tos)
+* Read them on [Atbox](https://atbox.io/legal/tos)
 * Download the latest release [Here →](https://github.com/Atbox/legal/releases)
 
 # How to see the changes? #
@@ -36,7 +36,7 @@ Simply [open an issue](https://github.com/Atbox/legal/issues/new) and ask for a 
 # Drafts and releases #
 This repository has the following branches:
 * [**Master branch**](https://github.com/Atbox/legal/tree/master) where you can see the latest version of TOS and legal notices.
-You can always see the *Master Branch* on the homepage of this repository, or on [Atbox](https://atbox.io/pages/tos)) 
+You can always see the *Master Branch* on the homepage of this repository, or on [Atbox](https://atbox.io/legal/tos)) 
 * [**Draft branch**](https://github.com/Atbox/legal/tree/draft) where you can find drafts of the things may change on the future version. *Draft brach* **IS NOT** relible at all and it may always change. **IT'S NOT** for you to consider as terms of services or legal notes. It's just here in case you are curious about future changes.
 
 

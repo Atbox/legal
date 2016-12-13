@@ -1,7 +1,7 @@
 اتباکس - توضیح درباره‌ی حق نشر و لایسنس‌ها
 ======================
 
->میتونید این متن رو هم در [اتباکس](https://atbox.io/pages/license) و هم در [گیت‌هاب](https://github.com/Atbox/legal/tree/master/license) بخونید
+>میتونید این متن رو هم در [اتباکس](https://atbox.io/legal/license) و هم در [گیت‌هاب](https://github.com/Atbox/legal/tree/master/license) بخونید
 
 ### ۱. حق نشر ###
 
