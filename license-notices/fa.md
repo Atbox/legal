@@ -68,7 +68,7 @@
   * **Mobile computer devices** By [Vector Open Stock](http://vectoropenstock.com)
   * **Flat hands collection** By [Freepik](http://freepik.com)
   * **Business Team Avatar Collection** By [Freepik](http://freepik.com)
-  * **Textures** By [Subtle Patterns](http://subtlepatterns.com)
+  * **Textures** By [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
 * IMAGES
   * By [Sajjad Rad](https://atbox.io/sajjad)
   * By [Pouya Saadeghi](https://atbox.io/pouya)
