@@ -1,7 +1,7 @@
 Atbox - Copyright and License Notices
 ======================
 
->You can either read this on [Atbox](https://atbox.io/legal/license-notices) or [Github](https://github.com/Atbox/legal/tree/master/license)
+>You can either read this on [Atbox](https://atbox.io/legal/license) or [Github](https://github.com/Atbox/legal/tree/master/license-notices)
 
 ### 1. COPYRIGHT ###
 
