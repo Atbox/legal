@@ -17,7 +17,7 @@ We don't expose our user content to anyone. Each user will only access the data 
 
 > Note: In legal cases, Atbox is forced to provide the access to some particular data for legal authorities.
 
-Please read [Privacy Policy](../privacy-policy) to make sure you exactly know how Atbox protects your information.
+Please read [Privacy Policy](https://github.com/Atbox/legal/tree/master/privacy-policy) to make sure you exactly know how Atbox protects your information.
 
 ### Avoid illegal and inappropriate content ###
 
@@ -59,4 +59,4 @@ In case of technical issues, services may pause a while, but everything gets bac
 
 ### Payment Terms ###
 
-Please read [Payment Terms](../payment-terms)
+Please read [Payment Terms](https://github.com/Atbox/legal/tree/master/payment-terms)
