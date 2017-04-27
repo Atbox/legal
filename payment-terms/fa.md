@@ -1,7 +1,7 @@
 اتباکس - قوانین پرداخت
 ======================
 
->میتونید این متن رو هم در [اتباکس](https://atbox.io/pages/payment-terms) و هم در [گیت‌هاب](https://github.com/Atbox/legal/tree/master/payment-terms) بخونید
+>میتونید این متن رو هم در [اتباکس](https://atbox.io/legal/payment-terms) و هم در [گیت‌هاب](https://github.com/Atbox/legal/tree/master/payment-terms) بخونید
 
 اتباکس یه سرویس رایگانه اما خدمات پرمیوم هم از روش پرداخت توسط کاربر و یا هدیه، به کاربر ارائه می‌کنه. در هر دو حالت، کاربر سرویس پرمیوم تعیین شده رو دریافت میکنه.
 
