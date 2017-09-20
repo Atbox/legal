@@ -41,6 +41,7 @@ Atbox uses the following material to build and deliver the service. Each item ma
   * **Playfair Display** By [Claus Sørensen](http://fonts.google.com/specimen/Playfair+Display)
   * **Slabo 13px** By [John Hudson](http://github.com/TiroTypeworks/Slabo)
   * **Iran Sans** By [Moslem Ebrahimi](http://fontiran.com)
+  * **Iran Yekan** By [Moslem Ebrahimi](http://fontiran.com)
   * **Iran Sharp** By [Moslem Ebrahimi](http://fontiran.com)
   * **Behdad** By [Saleh Souzanchi](http://github.com/font-store/font-behdad)
   * **Yekan** By [Borna Rayaneh](http://bornaray.com)
@@ -49,6 +50,21 @@ Atbox uses the following material to build and deliver the service. Each item ma
   * **Vazir Code** By [Saber Rastikerdar](http://github.com/rastikerdar)
   * **Sahel** By [Saber Rastikerdar](http://github.com/rastikerdar)
   * **Montserrat** By [Julieta Ulanovsky](https://fonts.google.com/specimen/Montserrat)
+  * **Amatic SC** By [Vernon Adams](https://fonts.google.com/specimen/Amatic+SC)
+  * **Gruppo** By [Vernon Adams](https://fonts.google.com/specimen/Gruppo)
+  * **Architects Daughter** By [Kimberly Geswein](https://fonts.google.com/specimen/Architects+Daughter)
+  * **Great Vibes** By [Rob Leuschke](http://www.typesetit.com)
+  * **Inconsolata** By [Raph Levien](https://fonts.google.com/specimen/Inconsolata)
+  * **KG I Need A Font** By [Kimberly Geswein](http://kimberlygeswein.com)
+  * **Lalezar** By [Borna Izadpanah](https://fonts.google.com/specimen/Lalezar)
+  * **Limelight** By [Sorkin Type](https://fonts.google.com/specimen/Lalezar)
+  * **ME hamidehsaeian** By [Hamideh Saeian](http://fontiran.com)
+  * **Far Dastan** By [Aboulfazl Seilsepour](http://seilsepour.ir)
+  * **B Traffic** By [Borna Rayaneh](http://bornaray.com)
+  * **B Esfehan** By [Borna Rayaneh](http://bornaray.com)
+  * **A Bank** By Naser Ebrahimi
+  * **Thuluth** By Unknown
+  * **iranNastaliq** By SCICT
 * ICONS
   * **Kameleon** By [Vincent Lemoign](http://webalys.com)
   * **E-commerce And Shopping** By [Vecteezy](http://vecteezy.com)
