@@ -27,15 +27,15 @@ Atbox follows the rules and constitution of Iran, so any published content on At
 
 
 * INAPPROPRIATE CONTENT THAT MUST BE AVOIDED:
-  * Insulting, ridiculing or blackmailing people, races, ethnicities or countries anyway
+  * Insulting, ridiculing or blackmailing people, races, ethnicities or countries in any way
   * Insulting or joking about politicians, celebrities, organisations
-  * Erotic content, Linking to websites with any kind of erotic or sexual content
-  * Sexual related content or any direct/indirect mentions to sexual content
+  * Publishing or sharing erotic content or linking to websites with any kind of erotic or sexual content
+  * Publishing or sharing sexual related content or any direct/indirect mentions to sexual content
   * Learning, forcing or promoting any illegal actions like contraband, drugs, steal, rape, fraud, etc.
-  * Impersonation: using names, identities or pictures of others.
+  * Impersonation: using names, identities or pictures of other people without their permission.
   * Publishing other people's information, images or data
-  * Copying or publishing other people's content under your own name
-  * Leaking people's information
+  * Sharing or publishing other people's content under your own name
+  * Exposing people's private information
   * Sending advertisemnet to users
   * Annoying or disturbing users
   * Insulting identities
@@ -43,7 +43,7 @@ Atbox follows the rules and constitution of Iran, so any published content on At
   * Hacking, Cracking, Fishing or Stealing data in any way
   * Spamming, Bulk emails, Bulk SMS or any related content
   * Misusing of content, words or images, Publishing duplicate content.
-  * Any other cases which may harm the website or it's profits, even if it's not listed here.
+  * Any other actions which may harm the website or it's profits, even if it's not listed here.
 
 ### Use atbox in a good way ###
 
