@@ -11,7 +11,7 @@ This privacy policy has been compiled to better serve those who are concerned wi
   * When registering for Atbox, as appropriate, you may be asked to enter your name and email address to identify you as a user of the service. Your name will be visible to the public but your email address will be held privately.
   * When you login using a third-party app such as Facebook, Google or Twitter, we receive some info from that app. You can see exactly what info we are receiving when you are allowing the Atbox app to use that info.
 
-* Resume information
+* Specific Resume information
   * In order to build your resume, you may be asked to enter your resume data such as work experiences and contact info. You will and can choose if this data is private or public. we will ask you this when you are making your resume. You can also change this option on the [settings page](https://atbox.io/settings) any time.
 
 ### When do we collect personal information? ###
@@ -21,6 +21,7 @@ We collect personal information from you when you:
 * Login with third-party apps such as Facebook, Google or Twitter
 * Provide us with feedback on our products or services.
 * Contact the support
+* Send private messages to Atbox users
 
 ### How do we use your personal information? ###
 
@@ -35,9 +36,10 @@ We collect personal information from you when you:
 
 ### How do we protect your information? ###
 
-  * We only provide services and information. We never ask for credit card numbers.
+  * We only provide services and information.
   * We use regular Malware Scanning.
   * All transactions are processed through a gateway provider and are not stored or processed on our servers.
+  * We never store your credit card number.
   * Your personal information is contained behind secured networks and is only accessible by administrators who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
 ### When do we send you emails? ###
@@ -63,7 +65,7 @@ We also send you:
 
 ### OAuth ###
 
-Atbox uses [OAuth](https://en.wikipedia.org/wiki/OAuth) in order to connect to your accounts on other applications such as [Google](https://www.google.com/),[Facebook](https://www.facebook.com), [Twitter](https://twitter.com), etc. 
+Atbox uses [OAuth](https://en.wikipedia.org/wiki/OAuth) in order to connect to your accounts on other applications such as [Google](https://www.google.com/),[Facebook](https://www.facebook.com), [Twitter](https://twitter.com), [Linkedin](https://www.linkedin.com), etc. 
 
 When you register on Atbox via OAuth, when you import your basic info or when you connect these applications to your profile, we will receive some of your basic information such as name, email, user ID and profile picture.
 
@@ -132,10 +134,24 @@ and we will promptly remove you from ALL correspondence.
 
 ### Google Analytics ###
 
-Atbox uses Google Analytics in order to analyze and track activities. Please read [Google Analytics' Terms of services](https://www.google.com/analytics/terms/us.html)
+Atbox uses Google Analytics to analyze and track activities. Please read [Google Analytics' Terms of services](https://www.google.com/analytics/terms/us.html)
 
 ### Google AdSense ###
 
-Atbox uses Google AdSense in order to show online ads. Please read [Google AdSense Terms of services](https://www.google.com/adsense/terms)
+Atbox uses Google AdSense to show online ads. Please read [Google AdSense Terms of services](https://www.google.com/adsense/terms)
+
+### Stripe ###
+
+Atbox uses Stripe for payments. Please read [Stripe Privacy Policy](https://stripe.com/us/privacy/)
+
+
+### Hotjar ###
+
+Atbox uses Hotjar to analyze and track activities. Please read [Hotjar Privacy Policy](https://www.hotjar.com/privacy)
+
+
+### Cloudflare ###
+
+Atbox uses Cloudflare for server security. Please read [Cloudflare Privacy Policy](https://www.cloudflare.com/security-policy/)
 
 
